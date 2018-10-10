@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterEcommecrApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "OTNjMzliNDNlMDIxZTYxYTM0MzcwNDk4YzA1Njg2NTA4ZmM1OWMwZjkyMWZmZTE4ODU4Mzk4M2Q3MWJlZDczN2Q4NWMzNmU5ZmNiZTljMTNhMjY2MmI3NTQ2MTg3NmMyMGJhNDg2NDI0YjNiZGEzZGViODE1ZTE0N2ZmM2MzYjM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "mujo1995",
+  "repository-name": "jhipster-sample-application"
+}
